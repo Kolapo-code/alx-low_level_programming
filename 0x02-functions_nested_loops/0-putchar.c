@@ -1,20 +1,21 @@
-#include <stdio.h>
-#include "holberton.h"
+#include "main.h"
+	/**
+	 * main - print _putchar
+	 * is written by kolapo
+	 * Return: 0
+	 */
 
-/**
- * main - Entry point
- *
- * Return:1
- */
-int main(void)
-{
-	char text_printed[9] = "Holberton";
-	int count;
 
-	for (count = 0; count < 9; count++)
+	int main(void)
 	{
-		_putchar(text_printed[count]);
-	}
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
 	return (0);
-}
+	}
