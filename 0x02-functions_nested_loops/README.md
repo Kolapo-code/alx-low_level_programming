@@ -1,2 +1,2 @@
 #!/bin/bash
-"0x02. C - Functions, nested loops"
+"My Nested loop and Functions"
