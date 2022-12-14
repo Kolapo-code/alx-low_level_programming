@@ -1,9 +1,11 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by mbah
+	 * Description: 'the program's description'
+	 * is written by kolapo
 	 * Return: 0
 	 */
+
 
 	int main(void)
 	{
