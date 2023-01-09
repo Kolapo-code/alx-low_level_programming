@@ -5,7 +5,6 @@
 
 
 /**
-
  *  * count_word - helper function to count the number of words in a string
 
  *   * @s: string to evaluate
