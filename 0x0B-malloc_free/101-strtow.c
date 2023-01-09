@@ -14,7 +14,6 @@
  *     * Return: number of words
 
  *      */
-
 int count_word(char *s)
 
 {
@@ -56,7 +55,6 @@ int count_word(char *s)
 }
 
 /**
-
  * **strtow - splits a string into words
 
  * @str: string to split
@@ -68,7 +66,6 @@ int count_word(char *s)
  * or NULL (Error)
 
 */
-
 char **strtow(char *str)
 
 {
